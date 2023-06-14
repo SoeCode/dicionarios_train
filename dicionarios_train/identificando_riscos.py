@@ -42,5 +42,4 @@ for estado in niveis_co2:
     media = total_co2 / qtd_sensores
     if media > 450:
         print(f'{estado} está com níveis altíssimos de CO2 {media}, chamar equipe especializada para verificar a região.')
-        #add
-        #add 2
+        #a
